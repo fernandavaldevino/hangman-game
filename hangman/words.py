@@ -1,0 +1,20 @@
+WORDS=[
+    'banana',
+    'avocado',
+    'grape',
+    'strawberry',
+    'orange',
+    'cherry',
+    'kiwifruit',
+    'pineapple',
+    'peach',
+    'blueberry',
+    'apricot',
+    'papaya',
+    'watermelon',
+    'mango',
+    'lemon',
+    'pomegranate',
+    'grapefruit',
+    'fig'
+]
