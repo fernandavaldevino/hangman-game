@@ -28,7 +28,7 @@ def hangman():
         print(f'\nRemaining attempts: {attempts}')
         print('\nWrong letters: ', ' '.join(wrong_letters))
 
-        attempt = input('\nDigite uma letra: ').upper()
+        attempt = input('\nEnter a letter: ').upper()
 
         if attempt in word:
             print(f'\n{hangman_draw.draw_level[wrong_level]}\n')
