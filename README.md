@@ -18,20 +18,20 @@ It's a simple example of the Hangman game using Python language. The game have o
 </br>
 
 <br>
-<h2 align="left"> Functionalities </h2>
+<h2 align="center"> Functionalities </h2>
 When you run the hangman.py, this is the game starting:
 <p>
-<img width="489" alt="Screenshot 2023-10-24 at 21 11 29" src="https://github.com/fernandavaldevino/hangman-game/startScreen.png">
+<img width="300" alt="Start Game Screen" src="hangman/images/startScreen.png">
 </p>
 
 If you get the word right, this is the screen:
 <p>
-<img width="287" alt="Screenshot 2023-10-24 at 21 12 11" src="https://github.com/fernandavaldevino/hangman-game/winScreen.png">
+<img width="287" alt="Win Screen" src="hangman/images/winScreen.png">
 </p>
 
 If you don't, this is the game over screen:
 <p>
-<img width="287" alt="Screenshot 2023-10-24 at 21 12 11" src="https://github.com/fernandavaldevino/hangman-game/gameOverScreen.png">
+<img width="287" alt="Game Over Screen" src="hangman/images/gameOverScreen.png">
 </p>
 </br>
 
