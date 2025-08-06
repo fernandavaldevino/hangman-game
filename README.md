@@ -21,17 +21,17 @@ It's a simple example of the Hangman game using Python language. The game have o
 <h2 align="left"> Functionalities </h2>
 When you run the hangman.py, this is the game starting:
 <p>
-<img width="489" alt="Screenshot 2023-10-24 at 21 11 29" src="https://github.com/fernandavaldevino/hangman-game/assets/32962452/746433a5-6bba-495d-88f1-cbb046b080f3">
+<img width="489" alt="Screenshot 2023-10-24 at 21 11 29" src="https://github.com/fernandavaldevino/hangman-game/startScreen.png">
 </p>
 
 If you get the word right, this is the screen:
 <p>
-<img width="287" alt="Screenshot 2023-10-24 at 21 12 11" src="https://github.com/fernandavaldevino/hangman-game/assets/32962452/7942d727-fb55-4a08-a935-c22c117dec55">
+<img width="287" alt="Screenshot 2023-10-24 at 21 12 11" src="https://github.com/fernandavaldevino/hangman-game/winScreen.png">
 </p>
 
 If you don't, this is the game over screen:
 <p>
-<img width="287" alt="Screenshot 2023-10-24 at 21 12 11" src="https://github.com/fernandavaldevino/hangman-game/assets/32962452/7942d727-fb55-4a08-a935-c22c117dec55">
+<img width="287" alt="Screenshot 2023-10-24 at 21 12 11" src="https://github.com/fernandavaldevino/hangman-game/gameOverScreen.png">
 </p>
 </br>
 
